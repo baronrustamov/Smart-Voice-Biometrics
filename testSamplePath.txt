@@ -1,0 +1,15 @@
+chris/out000.wav
+chris/out001.wav
+chris/out002.wav
+chris/out003.wav
+chris/out004.wav
+isabel/out000.wav
+isabel/out001.wav
+isabel/out002.wav
+isabel/out003.wav
+isabel/out004.wav
+yousef/out000.wav
+yousef/out001.wav
+yousef/out002.wav
+yousef/out003.wav
+yousef/out004.wav

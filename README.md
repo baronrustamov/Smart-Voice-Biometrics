@@ -4,11 +4,11 @@ Voice biometrics technology is key to speaker verification, where the technology
 
 Common uses:
 
-Telephone and internet transactions
-IVR-based banking systems
-Remote access to websites, and networks
-IVR-based health systems
-Audio signatures for digital documents
-Mobile workforces, including law enforcement and emergency services
-Online education
-Clinical research
+- Telephone and internet transactions
+- IVR-based banking systems
+- Remote access to websites, and networks
+- IVR-based health systems
+- Audio signatures for digital documents
+- Mobile workforces, including law enforcement and emergency services
+- Online education
+- Clinical research
